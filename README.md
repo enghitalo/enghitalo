@@ -1,4 +1,3 @@
-### Hi there 👋
 ![giphy](https://media.giphy.com/media/3zyW4BAOm5hxyQDqJ7/giphy.gif)
 
 # I'm Ready for battle!!! 💣
