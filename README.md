@@ -1,6 +1,6 @@
 ![giphy](https://media.giphy.com/media/3zyW4BAOm5hxyQDqJ7/giphy.gif)
 
-# I'm Ready for battle!!! 💣
+# Ready for battle!!! 💣
 
 <!--
 **enghitalo/enghitalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
