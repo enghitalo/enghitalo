@@ -25,3 +25,8 @@
 ## Contact me
                 
 <a href="https://www.linkedin.com/in/hitalo-souza-556a0715b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30"></a>
+
+
+## See my Resume
+<div>Scan or click in the qr code to go to my <a href="https://enghitalo.github.io/">resume</a></div>
+<a href="https://enghitalo.github.io/"><img src="https://user-images.githubusercontent.com/63821277/187079128-cd89f69a-2b2f-4b13-9ef8-099e474869df.png" height="250"></a>
