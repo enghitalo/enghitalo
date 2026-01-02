@@ -1,9 +1,3 @@
-<header>
-  <h1 align="center">enghitalo</h1>
-  <p>Help me continue contributing.</p>
-  <a href="https://mpago.la/2Dd1ySf" >Donate Now</a>
-</header>
-
 ```v
 # Hitalo, here!
 # Be welcome to my github.
